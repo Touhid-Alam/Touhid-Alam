@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Touhid-Alam
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently completing my undergraduation in Computer Science and Engineering from American International University-Bangladesh
 - 💞️ I’m also learning to start my reserach journey on my fields of interest
